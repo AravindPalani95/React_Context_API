@@ -1,0 +1,41 @@
+.launcherFirstText
+{
+    font-size: 30px;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-weight: 500;
+}
+
+.launcherSecondText
+{
+    font-size: 30px;
+    margin-left: 5px;
+    vertical-align: middle;
+    font-weight: 500;
+}
+
+@media only screen and (min-width:320px) and (max-width:600px){
+    .launcherFirstText
+    {
+        font-size: 20px;
+        margin-left: 10px;
+        vertical-align: middle;
+        font-weight: 500;
+        display: inline-block;
+        margin-top: 5px;
+    }
+
+    .launcherSecondText
+    {
+        font-size: 20px;
+        margin-left: 5px;
+        vertical-align: middle;
+        font-weight: 500;
+        display: inline-block;
+        margin-top: 5px;
+    }
+
+    .launcherImg{
+        height: 30px !important;
+    }
+}
