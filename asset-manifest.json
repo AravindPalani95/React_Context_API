@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_LoginPage/static/css/main.6cd60d9c.chunk.css",
+    "main.js": "/React_LoginPage/static/js/main.74e83f75.chunk.js",
+    "main.js.map": "/React_LoginPage/static/js/main.74e83f75.chunk.js.map",
+    "runtime-main.js": "/React_LoginPage/static/js/runtime-main.93f501d9.js",
+    "runtime-main.js.map": "/React_LoginPage/static/js/runtime-main.93f501d9.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/React_LoginPage/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.a6f7ead2.chunk.js": "/React_LoginPage/static/js/2.a6f7ead2.chunk.js",
+    "static/js/2.a6f7ead2.chunk.js.map": "/React_LoginPage/static/js/2.a6f7ead2.chunk.js.map",
+    "index.html": "/React_LoginPage/index.html",
+    "precache-manifest.46ed2fcfa345ef493319fb55d6b89f87.js": "/React_LoginPage/precache-manifest.46ed2fcfa345ef493319fb55d6b89f87.js",
+    "service-worker.js": "/React_LoginPage/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/React_LoginPage/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.6cd60d9c.chunk.css.map": "/React_LoginPage/static/css/main.6cd60d9c.chunk.css.map",
+    "static/js/2.a6f7ead2.chunk.js.LICENSE": "/React_LoginPage/static/js/2.a6f7ead2.chunk.js.LICENSE",
+    "static/media/Note_Paper.png": "/React_LoginPage/static/media/Note_Paper.12bbb938.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93f501d9.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.a6f7ead2.chunk.js",
+    "static/css/main.6cd60d9c.chunk.css",
+    "static/js/main.74e83f75.chunk.js"
+  ]
+}
